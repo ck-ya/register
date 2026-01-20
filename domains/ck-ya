@@ -3,6 +3,7 @@
     "username": "ck-ya",
   },
   "records": {
+    "TXT": "github-verification-string"
     "CNAME": "ck-ya.github.io"
   },
   "proxied": true
