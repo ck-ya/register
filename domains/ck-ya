@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "ck-ya",
+  },
+  "records": {
+    "CNAME": "ck-ya.github.io"
+  },
+  "proxied": true
+}
